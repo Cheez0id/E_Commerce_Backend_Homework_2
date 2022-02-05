@@ -1,0 +1,26 @@
+{
+  "name": "e_commerce_backend_homework_2",
+  "version": "1.0.0",
+  "description": "***created a new repo for this because my seeds were not working at all in the first attempt*** Build the back end for an e-commerce site by modifying starter codd; configure a working Express.js API to use Sequelize to interact with a MySQL database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cheez0id/E_Commerce_Backend_Homework_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cheez0id/E_Commerce_Backend_Homework_2/issues"
+  },
+  "homepage": "https://github.com/Cheez0id/E_Commerce_Backend_Homework_2#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.15.0"
+  }
+}
